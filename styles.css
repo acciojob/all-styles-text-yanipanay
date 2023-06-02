@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
-.heading{
+.main{
 	width:200px;
+}
+.heading{
 	background-color:purple;
 	border-left: 5px solid green;
 	padding:10px;
