@@ -2,11 +2,12 @@
 /* Your CSS Code here. */
 .main{
 	width:200px;
-}
-.heading{
 	background-color:purple;
 	border-left: 5px solid green;
 	padding:10px;
+}
+.heading{
+	
 	font-size:20px;
 	color:white;
 }
